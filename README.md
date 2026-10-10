@@ -6,7 +6,7 @@ A copy of the AllTrails "Trails I want to Hike" saved-list screen, built with Ex
 
 ## Original snapshot
 
-<img src="screenshots/snapshot.jpg" width="300" />
+<img src="screenshots/screenshot.jpg" width="300" />
 
 ## My app (iOS)
 
